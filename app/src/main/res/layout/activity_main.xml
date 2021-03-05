@@ -39,5 +39,20 @@
         android:text="@string/cbrememberme"
         android:textColor="@color/black"/>
 
+    <Button
+        android:layout_width="90dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/btnlogin"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tdaftar"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:layout_marginTop="200dp"/>
+
 
 </LinearLayout>
