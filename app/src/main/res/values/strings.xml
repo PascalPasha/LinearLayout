@@ -5,4 +5,5 @@
     <string name="btnlogin">Sign In</string>
     <string name="cbrememberme">Remember Me</string>
     <string name="tdaftar">Daftar?</string>
+    <string name="btnbutton1">Button1</string>
 </resources>
