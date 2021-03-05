@@ -17,7 +17,12 @@
     <EditText
         android:layout_width="245dp"
         android:layout_height="30dp"
-        />
+        android:hint="@string/temail"
+        android:background="@color/white"
+        android:textColor="@color/black"
+        android:inputType="textEmailAddress"
+        android:layout_marginBottom="7dp"
+        android:layout_marginTop="20dp"/>
 
 
 </LinearLayout>
