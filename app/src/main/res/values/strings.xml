@@ -3,4 +3,6 @@
     <string name="temail">Email</string>
     <string name="tpassword">Password</string>
     <string name="btnlogin">Sign In</string>
+    <string name="cbrememberme">Remember Me</string>
+    <string name="tdaftar">Daftar?</string>
 </resources>
