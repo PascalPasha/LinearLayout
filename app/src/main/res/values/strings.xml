@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">LinearLayout</string>
+    <string name="temail">Email</string>
+    <string name="tpassword">Password</string>
+    <string name="btnlogin">Sign In</string>
 </resources>

@@ -14,5 +14,10 @@
         android:layout_height="100dp"
         android:src="@drawable/login"/>
 
+    <EditText
+        android:layout_width="245dp"
+        android:layout_height="30dp"
+        />
+
 
 </LinearLayout>
