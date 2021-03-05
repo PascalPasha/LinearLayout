@@ -24,5 +24,14 @@
         android:layout_marginBottom="7dp"
         android:layout_marginTop="20dp"/>
 
+    <EditText
+        android:layout_width="245dp"
+        android:layout_height="30dp"
+        android:hint="@string/tpassword"
+        android:background="@color/white"
+        android:textColor="@color/black"
+        android:inputType="textPassword"
+        android:layout_marginBottom="20dp"/>
+
 
 </LinearLayout>
